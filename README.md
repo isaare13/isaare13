@@ -1,16 +1,16 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 🫀
 
-<!--
-**isaare13/isaare13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Meu nome é Isabelle, sou uma estudante terminando o ensino médio e aprendendo um pouco de programação no alura.
+- Estou me desenvolvendo na linguagem javaScript
 
-Here are some ideas to get you started:
+### Para entrar em contato comigo 📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+@_isabellefra
+
+@0000108491394xsp@al.educacao.sp.gov.br
+
+![spongebob-spongebob-squarepants](https://github.com/isaare13/isaare13/assets/171145377/bc056c8d-4881-4e36-9ae0-3494f31fcd5c)
+
+![](
+![spongebob-spongebob-squarepants](https://github.com/isaare13/isaare13/assets/171145377/bc056c8d-4881-4e36-9ae0-3494f31fcd5c))
+
